@@ -1,2 +1,4 @@
 jhffj
-
+I am inserting 3 lines of text
+this is line 2
+this is 3
